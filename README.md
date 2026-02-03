@@ -16,4 +16,5 @@ Finalizar a VM
 Para a execução da VM - podman-compose stop
 
 Para a execução da VM e exclui o container - podman-compose down 
+
 Para a execução da VM, exclui o container e os volumes dentro do container - podman-compose down -v
